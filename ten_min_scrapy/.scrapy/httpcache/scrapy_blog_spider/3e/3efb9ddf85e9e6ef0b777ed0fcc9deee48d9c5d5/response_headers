@@ -1,0 +1,11 @@
+Date: Mon, 24 Aug 2020 13:33:05 GMT
+Content-Type: text/plain; charset=utf-8
+Cf-Ray: 5c7d71644dd8951b-NRT
+Vary: Accept-Encoding
+Cf-Cache-Status: MISS
+Access-Control-Allow-Credentials: false
+Cf-Request-Id: 04c24532ae0000951b2e00a200000001
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Trace: 2B830019EA3120A3216FF9CF758F29D64B59B9A7A4000000000000000000
+Server: cloudflare
+Content-Encoding: gzip
